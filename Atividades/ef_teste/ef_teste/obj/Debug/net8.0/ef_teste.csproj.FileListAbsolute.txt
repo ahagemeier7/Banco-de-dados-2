@@ -59,7 +59,6 @@ C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debu
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\ef_teste.dll
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\refint\ef_teste.dll
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\ef_teste.pdb
@@ -203,3 +202,4 @@ C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\bin\Debu
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\ef_teste.csproj.AssemblyReference.cache
 C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\ef_teste.csproj.Up2Date
+C:\Users\427281\Documents\Banco-de-dados-2\Atividades\ef_teste\ef_teste\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
