@@ -1,12 +1,166 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\models\\propertycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\models\\propertycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\augus\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\UserType.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Models\\UserType.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\UserType.cs",
+              "RelativeToolTip": "Atividade_01\\Models\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:40:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\Users.cs",
+              "RelativeToolTip": "Atividade_01\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:56:50.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyCategory.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\PropertyCategory.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Models\\PropertyCategory.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\PropertyCategory.cs",
+              "RelativeToolTip": "Atividade_01\\Models\\PropertyCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:53:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\Address.cs",
+              "RelativeToolTip": "Atividade_01\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:51:08.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Program.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Program.cs",
+              "RelativeToolTip": "Atividade_01\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:45:51.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\appsettings.json",
+              "RelativeDocumentMoniker": "Atividade_01\\appsettings.json",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\appsettings.json",
+              "RelativeToolTip": "Atividade_01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T00:45:24.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Atividade_01\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:44:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Data\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Data\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Data\\CompanyContext.cs",
+              "RelativeToolTip": "Atividade_01\\Data\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:42:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\Property.cs",
+              "RelativeToolTip": "Atividade_01\\Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:37:52.286Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

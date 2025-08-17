@@ -7,5 +7,6 @@ namespace Atividade_01.Models
         [Key]
         public int Id { get; set; }
         public string? CategoryDescription { get; set; }
+        public List<Property>? Properties { get; set; }
     }
 }

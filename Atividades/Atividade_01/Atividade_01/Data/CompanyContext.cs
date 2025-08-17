@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Atividade_01.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Atividade_01.Data
 {
@@ -10,15 +11,19 @@ namespace Atividade_01.Data
 
         }
 
-        //public DbSet<Student> Students { get; set; }
-        //public DbSet<Course> Courses { get; set; }
-        //public DbSet<StudentCourses> StudentCourses { get; set; }
+        public DbSet<PropertyCategory> PropertyCategories { get; set; }
+        public DbSet<Property> Properties { get; set; }
+        public DbSet<Address> Addresses { get; set; }
+        public DbSet<Users> Users { get; set; }
+        public DbSet<UserType> UserTypes { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Student>().ToTable("Student");
-        //    modelBuilder.Entity<Course>().ToTable("Course");
-        //    modelBuilder.Entity<StudentCourses>().ToTable("StudentCourse");
-        //}
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<PropertyCategory>().ToTable("PropertyCategory");
+            modelBuilder.Entity<Property>().ToTable("Property");
+            modelBuilder.Entity<Address>().ToTable("Address");
+            modelBuilder.Entity<Users>().ToTable("Users");
+            modelBuilder.Entity<UserType>().ToTable("UserType");
+        }
     }
 }

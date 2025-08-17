@@ -12,5 +12,6 @@ namespace Atividade_01.Models
         public string? Neighborhood { get; set; }
         public string? Street { get; set; }
         public int HouseNumber {  get; set; }
+        public string? ZipCode { get; set; }
     }
 }
