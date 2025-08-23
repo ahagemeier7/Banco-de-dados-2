@@ -22,6 +22,5 @@ namespace ef_teste.Data
         }
         //Comando para criar a migration
         //dotnet ef migrations add initial
-
     }
 }

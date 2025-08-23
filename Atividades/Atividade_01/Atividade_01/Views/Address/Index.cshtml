@@ -1,0 +1,36 @@
+﻿@model ICollection<Atividade_01.Models.Address>
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count estudantes.
+    </h1>
+
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Country</th>
+                <th>State</th>
+                <th>City</th>
+                <th>Neighborhood</th>
+                <th>Street</th>
+                <th>HouseNumber</th>
+                <th>ZipCode</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var a in Model)
+            {
+                <tr>
+                    <td>@a.Id</td>
+                    <td>@a.Country</td>
+                    <td>@a.State</td>
+                    <td>@a.City</td>
+                    <td>@a.Neighborhood</td>
+                    <td>@a.Street</td>
+                    <td>@a.ZipCode</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

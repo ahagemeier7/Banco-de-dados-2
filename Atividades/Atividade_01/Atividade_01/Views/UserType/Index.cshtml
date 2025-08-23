@@ -1,0 +1,25 @@
+﻿@model ICollection<Atividade_01.Models.UserType>
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count estudantes.
+    </h1>
+
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>TypeName</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var u in Model)
+            {
+                <tr>
+                    <td>@u.Id</td>
+                    <td>@u.TypeName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

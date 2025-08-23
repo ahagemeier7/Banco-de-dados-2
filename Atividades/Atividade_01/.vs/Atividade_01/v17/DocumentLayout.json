@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\augus\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\migrations\\20250817201943_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\migrations\\20250817201943_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\models\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\views\\usertype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\views\\usertype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\atividade_01\\atividade_01\\controllers\\usertypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6C6B2C-84B5-4A5D-BD9C-8B9E75263538}|Atividade_01\\Atividade_01.csproj|solutionrelative:atividade_01\\controllers\\usertypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\UserType.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Models\\UserType.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Models\\UserType.cs",
+              "RelativeToolTip": "Atividade_01\\Models\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:52:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250817201943_initial.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Migrations\\20250817201943_initial.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Migrations\\20250817201943_initial.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Migrations\\20250817201943_initial.cs",
+              "RelativeToolTip": "Atividade_01\\Migrations\\20250817201943_initial.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:52:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Data\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Data\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Data\\CompanyContext.cs",
+              "RelativeToolTip": "Atividade_01\\Data\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:51:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Views\\UserType\\Index.cshtml",
+              "RelativeDocumentMoniker": "Atividade_01\\Views\\UserType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Views\\UserType\\Index.cshtml",
+              "RelativeToolTip": "Atividade_01\\Views\\UserType\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T00:28:26.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Controllers\\UserTypeController.cs",
+              "RelativeDocumentMoniker": "Atividade_01\\Controllers\\UserTypeController.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Atividade_01\\Atividade_01\\Controllers\\UserTypeController.cs",
+              "RelativeToolTip": "Atividade_01\\Controllers\\UserTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:26:08.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

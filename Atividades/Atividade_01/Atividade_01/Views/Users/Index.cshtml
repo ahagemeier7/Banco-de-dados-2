@@ -1,0 +1,37 @@
+﻿@model ICollection<Atividade_01.Models.Users>
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count estudantes.
+    </h1>
+
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>UserName</th>
+                <th>Password</th>
+                <th>Email</th>
+                <th>DocumentNumber</th>
+                <th>PhoneNumber</th>
+                <th>AddressId</th>
+                <th>UserTypeId</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var u in Model)
+            {
+                <tr>
+                    <td>@u.Id</td>
+                    <td>@u.UserName</td>
+                    <td>@u.Password</td>
+                    <td>@u.Email</td>
+                    <td>@u.DocumentNumber</td>
+                    <td>@u.PhoneNumber</td>
+                    <td>@u.AddressId</td>
+                    <td>@u.UserTypeId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

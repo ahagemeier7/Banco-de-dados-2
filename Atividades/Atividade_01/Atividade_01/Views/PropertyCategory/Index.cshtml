@@ -1,0 +1,25 @@
+﻿@model ICollection<Atividade_01.Models.PropertyCategory>
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count estudantes.
+    </h1>
+
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>CategoryDescription</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.CategoryDescription</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

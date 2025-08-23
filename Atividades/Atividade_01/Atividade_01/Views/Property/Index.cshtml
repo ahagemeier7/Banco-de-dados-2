@@ -1,0 +1,37 @@
+﻿@model ICollection<Atividade_01.Models.Property>
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count estudantes.
+    </h1>
+
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Colour</th>
+                <th>SizeM2</th>
+                <th>BedroomNumber</th>
+                <th>BathroomNumber</th>
+                <th>Value</th>
+                <th>PropertyCategoryId</th>
+                <th>AddressId</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Colour</td>
+                    <td>@p.SizeM2</td>
+                    <td>@p.BedroomNumber</td>
+                    <td>@p.BathroomNumber</td>
+                    <td>@p.Value</td>
+                    <td>@p.PropertyCategoryId</td>
+                    <td>@p.AddressId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
