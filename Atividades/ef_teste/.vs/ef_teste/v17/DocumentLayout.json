@@ -7,36 +7,24 @@
       "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\models\\studentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\models\\studentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\ef_teste\\ef_teste\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1395E7E-D645-42C3-BF3E-6A4944CF031B}|ef_teste\\ef_teste.csproj|solutionrelative:ef_teste\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "ef_teste\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "ef_teste\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T00:40:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "ef_teste\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "ef_teste\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T00:09:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ef_teste\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "ef_teste\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:51:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "ef_teste\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "ef_teste\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:44:14.484Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,113 +96,22 @@
               "RelativeDocumentMoniker": "ef_teste\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ef_teste\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-22T23:17:24.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ef_teste\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ef_teste\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wEcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T23:11:08.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Data\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "ef_teste\\Data\\SchoolContext.cs",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Data\\SchoolContext.cs",
-              "RelativeToolTip": "ef_teste\\Data\\SchoolContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T23:21:18.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "ef_teste\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Models\\Student.cs",
-              "RelativeToolTip": "ef_teste\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T22:57:49.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentCourses.cs",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Models\\StudentCourses.cs",
-              "RelativeDocumentMoniker": "ef_teste\\Models\\StudentCourses.cs",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Models\\StudentCourses.cs",
-              "RelativeToolTip": "ef_teste\\Models\\StudentCourses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T22:52:32.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "ef_teste\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Models\\Course.cs",
-              "RelativeToolTip": "ef_teste\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T22:50:22.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "ef_teste\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "ef_teste\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T00:47:13.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\appsettings.json",
-              "RelativeDocumentMoniker": "ef_teste\\appsettings.json",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\appsettings.json",
-              "RelativeToolTip": "ef_teste\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-09T00:37:07.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Program.cs",
-              "RelativeDocumentMoniker": "ef_teste\\Program.cs",
-              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\ef_teste\\ef_teste\\Program.cs",
-              "RelativeToolTip": "ef_teste\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T00:31:09.498Z",
               "EditorCaption": ""
             }
           ]
