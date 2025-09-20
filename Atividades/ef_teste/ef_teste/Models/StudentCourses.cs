@@ -17,5 +17,10 @@ namespace ef_teste.Models
         
         [ForeignKey(nameof(CourseId))]
         public Course? Course { get; set; }
+
+        public DateTime SignDate { get; set; }
+        public DateTime? CancelDate { get; set; }
+
+
     }
 }

@@ -1,36 +1,35 @@
-using System.Diagnostics;
-using ef_teste.Data;
-using ef_teste.Models;
+﻿using ef_teste.Models;
 using ef_teste.Repository;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace ef_teste.Controllers
 {
-    public class HomeController : Controller
+    public class CourseController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-        private readonly IStudentRepository _studentRepository;
+        private readonly ILogger<CourseController> _logger;
+        private readonly ICourseRepository _courseRepository;
 
-        public HomeController(ILogger<HomeController> logger, IStudentRepository studentRepository)
+        public CourseController(ILogger<CourseController> logger, ICourseRepository courseRepository)
         {
             _logger = logger;
-            _studentRepository = studentRepository;
+            _courseRepository = courseRepository;
         }
 
         public async Task<IActionResult> Index()
         {
-            return View(await _studentRepository.GetAll());
+            return View(await _courseRepository.GetAll());
         }
-        
+
         [HttpPost]
-        public async Task<IActionResult> Create(Student student)
+        public async Task<IActionResult> Create(Course course)
         {
             if (ModelState.IsValid)
             {
-                await _studentRepository.Create(student);
+                await _courseRepository.Create(course);
                 return RedirectToAction("Index");
             }
-            return View(student);
+            return View(course);
 
         }
 
@@ -43,41 +42,42 @@ namespace ef_teste.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
-            var student = await _studentRepository.GetById(id);
-            if(student == null)
+            var course = await _courseRepository.GetById(id);
+            if (course == null)
             {
                 return NotFound();
             }
-            await _studentRepository.Delete(student);
+            await _courseRepository.Delete(course);
             return RedirectToAction("Index");
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(int? id, Student student)
+        public async Task<IActionResult> Update(int? id, Course course)
         {
 
             if (!id.HasValue)
                 return BadRequest();
 
-            if (id.Value != student.Id)
+            if (id.Value != course.Id)
                 return BadRequest();
 
-            if (ModelState.IsValid) { 
-                await _studentRepository.Update(student);
+            if (ModelState.IsValid)
+            {
+                await _courseRepository.Update(course);
                 return RedirectToAction("Index");
             }
-            return View(student);
+            return View(course);
         }
 
         [HttpGet]
         public async Task<IActionResult> Update(int id)
         {
-            var student = await _studentRepository.GetById(id);
-            if (student == null)
+            var course = await _courseRepository.GetById(id);
+            if (course == null)
             {
                 return NotFound();
             }
-            return View(student);
+            return View(course);
         }
 
         public IActionResult Privacy()

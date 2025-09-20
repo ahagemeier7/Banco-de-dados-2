@@ -1,0 +1,42 @@
+﻿@model ICollection<ef_teste.Models.Course>
+
+@{
+    ViewData["Title"] = "Course Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count Cursos.
+    </h1>
+
+    <a asp-controller="Course" asp-action="Create">Novo</a>
+
+    <table class="table table-responsive table-hover table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.Id</td>
+                    <td>@c.Name</td>
+                    <td>
+                        <form asp-controller="Course" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@c.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">
+                                Excluir
+                            </button>
+                        </form>
+                    </td>
+                    <td><button type="submit" class="btn btn-info btn-sm"><a asp-controller="Course" asp-action="Update" asp-route-id="@c.Id">Atualizar</a></button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

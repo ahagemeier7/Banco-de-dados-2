@@ -34,7 +34,7 @@ namespace ef_teste.Repository
         public async Task<Student> GetById(int id)
         {
             var student = await _context.Students.Where(s => s.Id == id).FirstOrDefaultAsync();
-            return student;
+            return student!;
         }
 
         public async Task<List<Student>> GetByName(string name)
@@ -47,7 +47,6 @@ namespace ef_teste.Repository
         {
             _context.Students.Update(student);
             await _context.SaveChangesAsync();
-
         }
     }
 }
