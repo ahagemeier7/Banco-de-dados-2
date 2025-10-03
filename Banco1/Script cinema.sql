@@ -47,7 +47,9 @@ CREATE TABLE filmes(
   id_filme int primary key auto_increment,
   titulo varchar(255),
   duracao time,
-  classificacao varchar(3)
+  classificacao varchar(3) 
+  elenco varchar(255),
+  diretor varchar(255
 );
 
 
@@ -89,31 +91,14 @@ CREATE TABLE sessoes(
 CREATE TABLE pessoas(
         id_pessoa int primary key auto_increment,
     nome varchar(255),
-        data_nascimento date,
-    nacionalidade varchar(255)
+    sobrenome varchar(255)
+    email varchar(255),
+    senha varchar(255),
+    data_nascimento date,
+    created_at date
+    
 );
 
-
-CREATE TABLE atores_filmes(
-        id_ator_filme int primary key auto_increment,
-    id_pessoa int,
-    foreign key (id_pessoa)
-                references pessoas(id_pessoa),
-    id_filme int,
-    foreign key (id_filme)
-                references filmes(id_filme)
-);
-
-
-CREATE TABLE diretores_filmes(
-        id_diretor_filme int primary key auto_increment,
-    id_pessoa int,
-    foreign key (id_pessoa)
-                references pessoas(id_pessoa),
-    id_filme int,
-    foreign key (id_filme)
-                references filmes(id_filme)
-);
 
 
 CREATE TABLE tipo_ingresso(
@@ -131,7 +116,11 @@ CREATE TABLE ingressos_vendidos(
     id_sessao int,
     foreign key (id_sessao)
                 references sessoes(id_sessao),
-        num_poltrona int
+        num_poltrona int,
+        id_pessoa
+        foreign key (id_pessoa)
+                references pessoas(id_pessoa),
+        valor float
 );
 
 
