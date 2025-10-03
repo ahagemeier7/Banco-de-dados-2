@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\cinema\\cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|solutionrelative:cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\cinema\\cinema\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|solutionrelative:cinema\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\cinema\\cinema\\models\\generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\cinema\\cinema\\models\\reviewsfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\reviewsfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\cinema\\cinema\\models\\generosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\generosfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|c:\\users\\427281\\documents\\banco-de-dados-2\\atividades\\cinema\\cinema\\models\\filmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F29CB-07C2-417E-8C46-2610B72D2CE4}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\filmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Data\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "Cinema\\Data\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Data\\DBInitializer.cs",
+              "RelativeToolTip": "Cinema\\Data\\DBInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:07:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cinema",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Cinema.csproj",
+              "RelativeDocumentMoniker": "Cinema\\Cinema.csproj",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Cinema.csproj",
+              "RelativeToolTip": "Cinema\\Cinema.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T23:07:07.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewsFilmes.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\ReviewsFilmes.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\ReviewsFilmes.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\ReviewsFilmes.cs",
+              "RelativeToolTip": "Cinema\\Models\\ReviewsFilmes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:03:05.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerosFilmes.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\GenerosFilmes.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\GenerosFilmes.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\GenerosFilmes.cs",
+              "RelativeToolTip": "Cinema\\Models\\GenerosFilmes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:01:55.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filmes.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\Filmes.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Filmes.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\Filmes.cs",
+              "RelativeToolTip": "Cinema\\Models\\Filmes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:59:13.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generos.cs",
+              "DocumentMoniker": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\Generos.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Generos.cs",
+              "ToolTip": "C:\\Users\\427281\\Documents\\Banco-de-dados-2\\Atividades\\Cinema\\Cinema\\Models\\Generos.cs",
+              "RelativeToolTip": "Cinema\\Models\\Generos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:58:03.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
