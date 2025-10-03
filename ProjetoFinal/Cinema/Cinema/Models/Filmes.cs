@@ -8,8 +8,9 @@ namespace Cinema.Models
         public int FilmeId { get; set; }
         public string? Titulo { get; set; }
         public DateTime Duracao { get; set; }
-        public string? classificacao { get; set; }
+        public string? Classificacao { get; set; }
         public string? Elenco { get; set; }
         public string? Diretor { get; set; }
+        public bool Ativo { get; set; }
     }
 }
