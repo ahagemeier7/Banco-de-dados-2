@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\interfaces\\iplantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\interfaces\\iplantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\repository\\plantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\repository\\plantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\views\\plant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\views\\plant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\data\\floriculturacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\data\\floriculturacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|c:\\users\\augusto.hagemeier\\documents\\almoco\\banco-de-dados-2\\atividades\\floricultura\\floricultura\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB07449-0694-4893-A5AE-D96B2B3C2724}|Floricultura\\Floricultura.csproj|solutionrelative:floricultura\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Floricultura\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Floricultura\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T16:03:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Views\\Plant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Floricultura\\Views\\Plant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Views\\Plant\\Index.cshtml",
+              "RelativeToolTip": "Floricultura\\Views\\Plant\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T16:00:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlantController.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Controllers\\PlantController.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Controllers\\PlantController.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Controllers\\PlantController.cs",
+              "RelativeToolTip": "Floricultura\\Controllers\\PlantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:56:56.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\appsettings.json",
+              "RelativeDocumentMoniker": "Floricultura\\appsettings.json",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\appsettings.json",
+              "RelativeToolTip": "Floricultura\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T15:55:28.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Program.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Program.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Program.cs",
+              "RelativeToolTip": "Floricultura\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:53:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FloriculturaContext.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Data\\FloriculturaContext.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Data\\FloriculturaContext.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Data\\FloriculturaContext.cs",
+              "RelativeToolTip": "Floricultura\\Data\\FloriculturaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:49:21.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Repository\\PlantRepository.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Repository\\PlantRepository.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Repository\\PlantRepository.cs",
+              "RelativeToolTip": "Floricultura\\Repository\\PlantRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:48:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPlantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Interfaces\\IPlantRepository.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Interfaces\\IPlantRepository.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Interfaces\\IPlantRepository.cs",
+              "RelativeToolTip": "Floricultura\\Interfaces\\IPlantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:47:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Floricultura\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:50:35.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Models\\Plant.cs",
+              "RelativeDocumentMoniker": "Floricultura\\Models\\Plant.cs",
+              "ToolTip": "C:\\Users\\augusto.hagemeier\\Documents\\Almoco\\Banco-de-dados-2\\Atividades\\Floricultura\\Floricultura\\Models\\Plant.cs",
+              "RelativeToolTip": "Floricultura\\Models\\Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:31:02.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
