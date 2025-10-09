@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Floricultura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5b6cf800e65078a0e195b4d787d2401a11c248")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58574ff91e1da8750848680ac8e85b5b68d060af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Floricultura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Floricultura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
